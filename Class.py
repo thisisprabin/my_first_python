@@ -24,4 +24,10 @@ print(getattr(obj, 'age'))
 print(hasattr(obj, 'age'))
 print(setattr(obj, 'age', 34))
 obj.displayAge()
-print(delattr(obj, 'age'))
+
+print("Docmentation ", MyFirst.__doc__)
+print("Dictionary ", MyFirst.__dict__);
+print("Name ", MyFirst.__name__);
+print("Module ", MyFirst.__module__);
+print("Base ", MyFirst.__base__)
+
