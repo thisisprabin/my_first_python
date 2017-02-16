@@ -5,7 +5,7 @@
 <p>Well that is just too easy you don't need to do anything it sets everything at the installation time not even the path variable but you do need to type a few commands to install in Linux, So follow these commands</p>
 
 <h2>Installation steps in Ubuntu 14.04</h2>
-<code>sudo -i</code>
+<p>You need to use sudo command so <code>sudo -i</code></p>
 <p>Enter you pasword, then make directory.</p>
 <code>mkdir test</code><br>
 <code>cd test</code>
