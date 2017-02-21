@@ -19,7 +19,7 @@
 <p>To run type <code>Python3.5</code> according to the above steps. So you can run it by get yourself into that folder or you can set the pythonpath variable.</p>
 <code>export PYTHONPATH="$PYTHONPATH:/usr/local/bin"</code>
 <p>and hit enter</p>
-<p>Now if you type <code>Python3.5</code> you will get the 3.5 version and if you type <code>Python</code> you will older one.</p>
+<p>Now if you type <code>Python3.5</code> you will get the 3.5 version and if you type <code>Python</code> you will get the older one.</p>
 
 
 
